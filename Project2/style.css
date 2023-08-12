@@ -1,0 +1,62 @@
+*{
+	text-align: right;
+}
+
+body{
+	background-image: url(background-image.jpg);
+	background-size: cover;
+}
+
+p {
+	color: #AB0235;
+	text-align: center;
+	border: 5px solid #AB0235;
+	cursor: pointer;
+}
+img{
+	float: left;
+}
+
+p {
+	
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	font-family: 'Poiret One', cursive;;
+}
+
+p {
+	color: pink;
+}
+
+footer{
+	color: white;
+	clear: both;
+	text-align: center;
+
+} 
+
+p {
+	color: white;
+} 
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext{
+	border: 5px solid white;
+}
+
+.active{
+	color: red;
+}
+
+#div1{
+	background: rgba(0,0,255, 0.5);
+}
+
+#div2{
+	background: rgba(250, 0, 0, 0.5);
+}
